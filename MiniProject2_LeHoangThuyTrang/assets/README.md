@@ -28,4 +28,5 @@ Dự án thiết kế Website đa trang tích hợp hiệu ứng Animation hiệ
 - `assets/`: Chứa các file CSS và JS.
 - **Link Demo:** (https://github.com/tranghihihahahehe/Landing-Page-/tree/main/MiniProject2_LeHoangThuyTrang)
 
-https://tranghihihahahehe.github.io/MiniProject2_LeHoangThuyTrang/index.html
+(https://tranghihihahahehe.github.io/Landing-Page-/MiniProject2_LeHoangThuyTrang/index.html)
+
