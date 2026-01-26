@@ -26,5 +26,6 @@ Dự án thiết kế Website đa trang tích hợp hiệu ứng Animation hiệ
 - `portfolio.html`: Trang dự án.
 - `contact.html`: Trang liên hệ.
 - `assets/`: Chứa các file CSS và JS.
-- **Link Demo:** https://github.com/tranghihihahahehe/MiniProject2_LeHoangThuyTrang
+- **Link Demo:** (https://github.com/tranghihihahahehe/Landing-Page-/tree/main/MiniProject2_LeHoangThuyTrang)
+
 https://tranghihihahahehe.github.io/MiniProject2_LeHoangThuyTrang/index.html
