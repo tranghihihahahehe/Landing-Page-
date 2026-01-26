@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Liên Hệ | WE24</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <header class="header"><nav class="navbar"><a href="index.html" class="logo">🚀 WE24</a><ul class="nav-links"><li><a href="index.html">Home</a></li><li><a href="services.html">Services</a></li><li><a href="portfolio.html">Portfolio</a></li><li><a href="contact.html" class="active">Contact</a></li></ul></nav></header>
+    <section style="max-width: 500px; margin: 50px auto; background: white; padding: 2rem; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+        <form id="contactForm">
+            <div class="form-group"><input type="text" id="name" required placeholder=" "><label>Họ và Tên</label></div>
+            <div class="form-group"><input type="email" id="email" required placeholder=" "><label>Email</label></div>
+            <div class="form-group"><textarea id="message" rows="4" required placeholder=" " style="resize:none;"></textarea><label>Tin nhắn bổ sung</label></div>
+            <button type="submit" style="width: 100%; padding: 12px; background: var(--primary); color: white; border: none; border-radius: 10px; cursor: pointer; font-weight: bold;">GỬI NGAY</button>
+        </form>
+    </section>
+    <div id="toast">✅ Đã gửi và lưu vào LocalStorage!</div>
+    <script src="assets/js/app.js"></script>
+</body>
+</html>
